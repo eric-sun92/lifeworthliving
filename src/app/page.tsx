@@ -15,7 +15,7 @@ const compassPoints: CompassPoint[] = [
   {
     value: 'Agency',
     description: 'The power to shape my path and make meaningful choices.',
-    quote: '"The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson',
+    quote: '"Most people are other people. Their thoughts are someone elses opinions, their lives a mimicry, their passions a quotatio"" - Oscar Wilde',
     position: 'north'
   },
   {
