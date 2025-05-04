@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="98" stroke="#8BA0B5" stroke-width="2"/>
+  
+  <!-- Inner circle -->
+  <circle cx="100" cy="100" r="70" stroke="#8BA0B5" stroke-width="1"/>
+  
+  <!-- Cross lines -->
+  <line x1="100" y1="0" x2="100" y2="200" stroke="#8BA0B5" stroke-width="1"/>
+  <line x1="0" y1="100" x2="200" y2="100" stroke="#8BA0B5" stroke-width="1"/>
+  
+  <!-- Compass points -->
+  <path d="M100 20L90 35H110L100 20Z" fill="#5B7B63"/> <!-- North -->
+  <path d="M180 100L165 90V110L180 100Z" fill="#5B7B63"/> <!-- East -->
+  <path d="M100 180L110 165H90L100 180Z" fill="#5B7B63"/> <!-- South -->
+  <path d="M20 100L35 110V90L20 100Z" fill="#5B7B63"/> <!-- West -->
+</svg>
