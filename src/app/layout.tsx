@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const metadata = {
   title: 'Life Worth Living',
-  description: 'A personal philosophy journal exploring moments, values, and questions that shape us.',
+  description: 'A personal reflection on what makes life worth living through the lens of agency, gratitude, curiosity, and connection.',
 }
 
 export default function RootLayout({
@@ -13,6 +13,18 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <meta
+          name="description"
+          content="A personal reflection on what makes life worth living through the lens of agency, gratitude, curiosity, and connection."
+        />
+        <meta property="og:title" content="Life Worth Living" />
+        <meta
+          property="og:description"
+          content="A personal reflection on what makes life worth living through the lens of agency, gratitude, curiosity, and connection."
+        />
+        <meta property="og:type" content="website" />
+      </head>
       <body>
         <nav className="nav">
           <div className="nav-brand">

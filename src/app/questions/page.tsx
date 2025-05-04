@@ -23,6 +23,10 @@ const questions: Question[] = [
   {
     text: 'How do we balance personal growth with contentment?',
     context: 'Considering the dance between ambition and acceptance.'
+  },
+  {
+    text: "What does it mean to live a meaningful life?",
+    context: "I believe living meaningfully isn't about grand achievements, but about the small moments of connection, growth, and purpose. It's in the daily choices we make and the impact we have on others."
   }
 ]
 

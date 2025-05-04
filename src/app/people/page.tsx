@@ -45,8 +45,8 @@ const people: Person[] = [
   {
     name: 'Andy',
     relationship: 'Childhood Best Friend',
-    influence: "Learned how the world worked together while shaping eachother's humor, curiosity, passions, and values in life.",
-    quote: "Andy was my closest friend from my hometown in Memphis. We spent nearly every summer playing games when we were not supposed to, making fun of eachother, and making memories that give me nostolgic feelings today. Although we don't speak as much now, when we do, it brings me right back from where we left off."
+    influence: "Learned how the world worked together while shaping each other's humor, curiosity, passions, and values in life.",
+    quote: "Andy was my closest friend from my hometown in Memphis. We spent nearly every summer playing games when we were not supposed to, making fun of each other, and making memories that give me nostalgic feelings today. Although we don't speak as much now, when we do, it brings me right back from where we left off."
   },
   {
     name: 'Adrian',
