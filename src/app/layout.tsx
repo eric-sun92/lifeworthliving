@@ -43,6 +43,9 @@ export default function RootLayout({
             <li>
               <Link href="/questions">Questions I'm Still Holding</Link>
             </li>
+            <li>
+              <Link href="/journal">Journal</Link>
+            </li>
           </ul>
           <div className="nav-footer">
             This site is not an answer — it's a beginning. A work in progress.
