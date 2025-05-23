@@ -40,7 +40,7 @@ const people: Person[] = [
     name: 'Serena',
     relationship: 'Friend',
     influence: 'Been my closest friend, inspired me to care more deeply for others and shaped almost every part of my thoughts, mannerisms, values, and goals.',
-    quote: 'Serena knows the most about me, who I am, and how I think. She has always been there with me through the good and bad, and although our relationship came to an end, I will always be grateful for our time together and the experiences we shared during a very special time of my life.'
+    quote: 'Serena knows the most about me, who I am, and how I think. She has always been there with me through the good and bad, and although our relationship came to an end, I will always be grateful for our time together and the experiences we shared during a very special time of my life. I have grown to respect and honor her values and morals. I ask myself what would Serena do? She has shaped me thus far, and will continue to shape my decisions in the future. This is what I want most.'
   },
   {
     name: 'Andy',
@@ -64,7 +64,7 @@ const people: Person[] = [
     name: 'Rumman and Wendy',
     relationship: 'Friends',
     influence: "Inpsire me to be a better person in my community.",
-    quote: "Rumman and Wendy are some of the best humans I know. They inspire me to be a better person and make better choices in life. I ask myself what would Wendy do? Their accomplishments within the community and academically give me so much happiness and inspiration, and their positivity never fails to leave me happier than before I interact with them. No time spent with them is a waste."
+    quote: "Rumman and Wendy are some of the best humans I know. They inspire me to be a better person and make better choices in life. Their accomplishments within the community and academically give me so much happiness and inspiration, and their positivity never fails to leave me happier than before I interact with them. No time spent with them is a waste."
   },
   {
     name: 'Mom',
